@@ -1,13 +1,7 @@
 <div align="center">
   <img height="200" src="https://yt3.ggpht.com/7gp3Q8IOFSxEqNRXRy3HW01WWz9aThFIKXFAB6IOP5S_yw7SUVfV4u2V2MNYAf7EFLvf_8mNwA=s600-c-k-c0x00ffffff-no-rj-rp-mo"  />
 </div>
-
-###
-
 <h2 align="left">Skill</h2>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -32,11 +26,8 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
 
-###
-
 <h2 align="left">Contact</h2>
 
-###
 
 <div align="left">
   <a href="https://www.youtube.com/channel/UCFtf1Un1SCLqq8LeU2jA-jA" target="_blank">
@@ -53,22 +44,20 @@
   </a>
 </div>
 
-###
+
 
 <p align="center">A Certified App and Web Developer with expertise in cyber security and ethical hacking, to protect your online presence and deliver top-quality website creation services. I Am a Certified APP AND WEB Developer (Great Learning),Cyber Security (IITM) Or Certified Ethical hacker (E|HE {RED CODE OR EC-Council} ,IITM).</p>
 
-###
+
 
 <h1 align="center">Education</h1>
 
-###
+
 
 <h5 align="left">Kendriya Vidyalaya <br>IITM<br>Ec-Council<br>Skill India</h5>
 
-###
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=GautamSinghBadwal01.GautamSinghBadwal01&"  />
 </div>
-
-###
